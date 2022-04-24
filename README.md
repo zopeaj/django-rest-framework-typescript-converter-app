@@ -1,0 +1,1 @@
+# django-rest-framework-typescript-converter-app
